@@ -13,3 +13,11 @@ To reproduce the results, ensure that you have the following dependencies instal
 - torch
 - matplotlib
 - tqdm
+
+# Todo:
+
+- [x] Add code for Double DQN
+- [ ] Add code for REINFORCE
+- [x] Understand what a target network is and use it
+- [x] Use a Replay Buffer too if necessary
+- [x] Train it on the environment
